@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="79" started-at="2019-08-29T18:33:53 IST" finished-at="2019-08-29T18:33:53 IST">
+    <groups>
+      <group name="regression">
+        <method signature="SeleniumTest.testmethod()[pri:0, instance:Ashwil_mavenGroup.SeleniumTest@27efef64]" name="testmethod" class="Ashwil_mavenGroup.SeleniumTest"/>
+      </group> <!-- regression -->
+    </groups>
+    <test name="Test" duration-ms="79" started-at="2019-08-29T18:33:53 IST" finished-at="2019-08-29T18:33:53 IST">
+      <class name="Ashwil_mavenGroup.TestMaven">
+        <test-method status="PASS" signature="myTestcase()[pri:0, instance:Ashwil_mavenGroup.TestMaven@59f99ea]" name="myTestcase" duration-ms="16" started-at="2019-08-29T18:33:53 IST" finished-at="2019-08-29T18:33:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTestcase -->
+      </class> <!-- Ashwil_mavenGroup.TestMaven -->
+      <class name="Ashwil_mavenGroup.SeleniumTest">
+        <test-method status="PASS" signature="testmethod()[pri:0, instance:Ashwil_mavenGroup.SeleniumTest@27efef64]" name="testmethod" duration-ms="0" started-at="2019-08-29T18:33:53 IST" finished-at="2019-08-29T18:33:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod -->
+      </class> <!-- Ashwil_mavenGroup.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

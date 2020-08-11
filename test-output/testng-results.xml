@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="90" started-at="2019-11-07T23:22:44 IST" finished-at="2019-11-07T23:22:44 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="90" started-at="2019-11-07T23:22:44 IST" finished-at="2019-11-07T23:22:44 IST">
+      <class name="Ashwil_mavenGroup.ClassC">
+        <test-method status="PASS" signature="test2()[pri:0, instance:Ashwil_mavenGroup.ClassC@3dd4520b]" name="test2" duration-ms="32" started-at="2019-11-07T23:22:44 IST" finished-at="2019-11-07T23:22:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- Ashwil_mavenGroup.ClassC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
